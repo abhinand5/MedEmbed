@@ -1,0 +1,16 @@
+openai:
+  api_key: "" # add your API Key here
+  base_url: "http://localhost:4000/v1"
+  model_name: "vllm-llama3.1-70b-4bit"
+
+data:
+  dataset_name: "starmpcc/Asclepius-Synthetic-Clinical-Notes"
+  num_samples: 5000
+  random_state: 42
+
+processing:
+  num_proc: 4
+
+output:
+  corpus_hub: "abhinand/clini-colbert-pairs-v1-dev"
+  pairs_hub: "abhinand/clini-colbert-pairs-v1-dev"
