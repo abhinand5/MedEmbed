@@ -9,9 +9,9 @@ MedEmbed is a collection of embedding models fine-tuned specifically for medical
 **Blog Post:** [Click Here](https://huggingface.co/blog/abhinand/medembed-finetuned-embedding-models-for-medical-ir)
 
 **Model Download Links: v0.1**
-- [abhinand/MedEmbed-small-v0.1](abhinand/MedEmbed-small-v0.1)
-- [abhinand/MedEmbed-base-v0.1](abhinand/MedEmbed-base-v0.1)
-- [abhinand/MedEmbed-large-v0.1](abhinand/MedEmbed-large-v0.1)
+- [abhinand/MedEmbed-small-v0.1](https://huggingface.co/abhinand/MedEmbed-small-v0.1)
+- [abhinand/MedEmbed-base-v0.1](https://huggingface.co/abhinand/MedEmbed-base-v0.1)
+- [abhinand/MedEmbed-large-v0.1](https://huggingface.co/abhinand/MedEmbed-large-v0.1)
 
 ## Project Overview
 
