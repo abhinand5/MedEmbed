@@ -1,0 +1,1 @@
+{"name": "nomic-ai/nomic-embed-text-v1.5", "revision": "679199c2575b5bfe93b06161d06cd7c16ebe4124", "release_date": null, "languages": [], "n_parameters": null, "memory_usage": null, "max_tokens": null, "embed_dim": null, "license": null, "open_source": null, "similarity_fn_name": null, "framework": ["Sentence Transformers"], "loader": null}

@@ -2,6 +2,10 @@
 
 MedEmbed is a collection of embedding models fine-tuned specifically for medical and clinical data, aimed at enhancing performance in healthcare-related natural language processing (NLP) tasks.
 
+![benchmark-comparison](./assets/MedEmbed-Bench.png)
+
+> **Note:** These models are a work in progress, successive releases will be aimed at improving the performance even better and creating a medical embedding leaderboard on MTEB. Also, the work is almost done for late-interation based retrievers based on ColBERT.
+
 ## Project Overview
 
 MedEmbed provides high-quality embedding models tailored for use in medical and clinical contexts. These models are designed to capture the nuances and complexities of medical terminology and concepts, making them particularly useful for a wide range of healthcare-related NLP tasks.

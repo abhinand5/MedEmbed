@@ -1,0 +1,1 @@
+{"name": "Snowflake/snowflake-arctic-embed-xs", "revision": "742da4f66e1823b5b4dbe6c320a1375a1fd85f9e", "release_date": null, "languages": [], "n_parameters": null, "memory_usage": null, "max_tokens": null, "embed_dim": null, "license": null, "open_source": null, "similarity_fn_name": null, "framework": ["Sentence Transformers"], "loader": null}
