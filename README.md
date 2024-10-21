@@ -96,6 +96,8 @@ This innovative approach allows us to leverage the vast knowledge encoded in lar
 
 [To be added]
 
+> **Note:** This project is actively evolving. We recommend using this repository as a template for similar projects, as significant code modifications may be necessary to adapt it to your specific needs. Please check for updates regularly and be prepared to adjust your implementation accordingly.
+
 ## Contributing
 [To be added]
 
