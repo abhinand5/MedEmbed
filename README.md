@@ -13,6 +13,15 @@ MedEmbed is a collection of embedding models fine-tuned specifically for medical
 - [abhinand/MedEmbed-base-v0.1](https://huggingface.co/abhinand/MedEmbed-base-v0.1)
 - [abhinand/MedEmbed-large-v0.1](https://huggingface.co/abhinand/MedEmbed-large-v0.1)
 
+**Dataset Download Links: v1**
+- [abhinand/MedEmbed-training-triplets-v1](https://huggingface.co/datasets/abhinand/MedEmbed-training-triplets-v1)
+
+### Support the Project
+
+Developing MedEmbed requires significant resources. If you find it valuable, consider [supporting the project](https://www.buymeacoffee.com/abhinand.b). Your contribution helps sustain and improve this open-source initiative.
+
+[![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/abhinand.b)
+
 ## Project Overview
 
 MedEmbed provides high-quality embedding models tailored for use in medical and clinical contexts. These models are designed to capture the nuances and complexities of medical terminology and concepts, making them particularly useful for a wide range of healthcare-related NLP tasks.
